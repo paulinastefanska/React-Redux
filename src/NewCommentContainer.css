@@ -1,8 +1,10 @@
-textarea {
+.Form textarea {
 	font-size: 1.2rem;
 	border-radius: 8px;
+	min-width: 400px;
+	padding: 10px;
 }
-button {
+.Form button {
 	margin: 6px 8px;
 	padding: 8px 17px;
 	background-color: #fff;
@@ -15,7 +17,7 @@ button {
 	cursor: pointer;
 	transition: .2s ease;
 }
-button:hover {
+.Form button:hover {
 	background-color: grey;
 	color: #ffff;
 }
