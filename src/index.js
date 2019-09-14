@@ -17,7 +17,7 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-store.dispatch(addComment("First comment"));
-store.dispatch(addComment("Second comment"));
+store.dispatch(addComment("So nice. Great idea!"));
+store.dispatch(addComment("Very interesting!"));
 
 serviceWorker.unregister();
