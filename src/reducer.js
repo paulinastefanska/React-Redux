@@ -7,4 +7,4 @@ const reducer = combineReducers({
   users
 });
 
-export default reducer;
+//export default reducer;
