@@ -8,7 +8,6 @@ const App = () => {
     <div className="App">
       <h1>Comments App</h1>
       <CommentsListContainer />
-      <h2>Add new comment</h2>
       <NewCommentContainer />
     </div>
   );
