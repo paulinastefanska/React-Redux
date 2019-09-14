@@ -35,13 +35,14 @@ class TextForm extends Component {
 
   render() {
     return(
-      <form className="form" onSubmit={(e) => this.handleSubmit(e)}>
+      <form className="Form" onSubmit={(e) => this.handleSubmit(e)}>
         <div>
           <textarea
             value = {this.state.text}
             onChange = {(e) => this.handleChange(e)}
             rows = "6"
             cols = "40"
+            placeholder = "Add a comment..."
             />
         </div>
         <div>
