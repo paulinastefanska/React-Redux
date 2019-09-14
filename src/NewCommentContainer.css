@@ -1,0 +1,21 @@
+textarea {
+	font-size: 1.2rem;
+	border-radius: 8px;
+}
+button {
+	margin: 6px 8px;
+	padding: 8px 17px;
+	background-color: #fff;
+	color: grey;
+	font-size:16px;
+	font-weight: bold;
+	text-align: center;
+	border: 2px solid grey;
+	border-radius: 8px;
+	cursor: pointer;
+	transition: .2s ease;
+}
+button:hover {
+	background-color: grey;
+	color: #ffff;
+}
