@@ -1,13 +1,11 @@
 .Comment {
-	width: 400px;
-	margin: 8px;
 	padding: 10px;
+	margin-bottom: 10px;
 	background-color: #dfe4ea80;
 	border-radius: 8px;
 	display: flex;
-	justify-content: center;
-	align-items: flex-start;
 	flex-direction: column;
+	text-align: left;
 }
 .Votes {
 	margin-top: 10px;

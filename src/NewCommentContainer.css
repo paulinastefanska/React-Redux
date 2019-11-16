@@ -1,7 +1,10 @@
+.Form {
+	padding: 10px;
+}
 .Form textarea {
 	font-size: 1.2rem;
 	border-radius: 8px;
-	min-width: 400px;
+	width: 100%;
 	padding: 10px;
 }
 .Form button {
