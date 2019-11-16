@@ -1,4 +1,4 @@
-## See [DEMO](https://peaceful-lamarr-3f5779.netlify.com) App
+## See [DEMO](https://peaceful-lamarr-3f5779.netlify.com) App [![Netlify Status](https://api.netlify.com/api/v1/badges/49e590dc-e23f-4ec1-9fa5-849b416eb937/deploy-status)](https://app.netlify.com/sites/peaceful-lamarr-3f5779/deploys)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
