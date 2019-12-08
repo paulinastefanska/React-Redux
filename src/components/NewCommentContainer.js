@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
-import { addComment } from './actions';
-import './NewCommentContainer.css';
+import { addComment } from '../redux/actions';
+import '../styles/NewCommentContainer.css';
 
 const mapDispatchToProps = (dispatch) => ({
   addComment: (text) => dispatch(addComment(text)) 
