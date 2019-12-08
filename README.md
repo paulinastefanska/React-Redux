@@ -1,7 +1,6 @@
-## React-Redux Comments App
-### See [DEMO](https://peaceful-lamarr-3f5779.netlify.com) App [![Netlify Status](https://api.netlify.com/api/v1/badges/49e590dc-e23f-4ec1-9fa5-849b416eb937/deploy-status)](https://app.netlify.com/sites/peaceful-lamarr-3f5779/deploys)
-
-Tech stack:
+# React-Redux Comments App [![Netlify Status](https://api.netlify.com/api/v1/badges/49e590dc-e23f-4ec1-9fa5-849b416eb937/deploy-status)](https://app.netlify.com/sites/peaceful-lamarr-3f5779/deploys)
+### See [DEMO](https://peaceful-lamarr-3f5779.netlify.com) 
+## Tech stack:
 - ReactJS,
 - Redux,
 - HTML,
